@@ -1,4 +1,4 @@
-# Teams Daily Report Bot
+# Microsoft Teams Workforce Status Reporting & Automation Solution
 
 ## Project Overview
 Developed a Microsoft Teams bot using Microsoft Copilot Studio (formerly Power Virtual Agents) that collects daily status updates from employees and posts summarized reports automatically in Teams channels. This project integrates Copilot Studio for the conversational bot, Power Automate for data handling and automation, SharePoint for storage, and Teams for posting.
